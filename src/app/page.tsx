@@ -56,7 +56,7 @@ export default function LandingPage() {
           handle: "@sarah_designs",
           testimonial: "Vortex completely transformed my digital presence. Lead generation has tripled since we launched.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h76s74",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h76s74&_wi=1",
           imageAlt: "digital vortex background",
         },
         {
@@ -72,7 +72,7 @@ export default function LandingPage() {
           handle: "@elena_coaching",
           testimonial: "The transition from concept to polished launch was seamless. My brand finally looks as premium as my service.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dk1d5l",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dk1d5l&_wi=1",
           imageAlt: "digital vortex background",
         },
         {
@@ -80,7 +80,7 @@ export default function LandingPage() {
           handle: "@m_thorne_coach",
           testimonial: "Exceptional work on the automated marketing flows. It feels like having a whole team working for me.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y3b54z",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y3b54z&_wi=1",
           imageAlt: "digital vortex background",
         },
         {
@@ -88,7 +88,7 @@ export default function LandingPage() {
           handle: "@linda_consults",
           testimonial: "The design quality is top-tier. My business has never looked this professional.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=1pnw56",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=1pnw56&_wi=1",
           imageAlt: "digital vortex background",
         },
       ]}
@@ -98,7 +98,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h76s74"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h76s74&_wi=2"
       imageAlt="digital vortex background"
       avatars={[
         {
@@ -155,17 +155,17 @@ export default function LandingPage() {
         {
           title: "Web Presence",
           description: "High-performance, modern websites designed to convert visitors into leads.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dk1d5l",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dk1d5l&_wi=2",
         },
         {
           title: "AI Marketing Flows",
           description: "Automated engagement systems that nurture your leads automatically.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y3b54z",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y3b54z&_wi=2",
         },
         {
           title: "Brand Strategy",
           description: "Premium brand systems that build trust instantly and distinguish your business.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=1pnw56",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=1pnw56&_wi=2",
         },
       ]}
       title="Integrated Launch Solutions"
